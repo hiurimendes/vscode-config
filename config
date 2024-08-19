@@ -124,7 +124,7 @@
   "editor.minimap.enabled": false,
   "window.titleBarStyle": "custom",
   "apc.electron": {
-    "titleBarStyle": "hiddenInset",
+    "titleBarStyle": "hidden",
     "trafficLightPosition": {
       "x": 11,
       "y": 10
@@ -223,7 +223,7 @@
   ],
   "workbench.statusBar.visible": true,
   "workbench.layoutControl.enabled": false,
-  "workbench.colorTheme": "Min Dark",
+  "workbench.colorTheme": "Min Light",
   "workbench.iconTheme": "symbols",
   "window.menuBarVisibility": "compact",
   "window.commandCenter": false,
